@@ -1,7 +1,9 @@
 # Quiz App 
 
 # Overview
-    A dynamic and interactive quiz application built using ReactJS. This project is designed to provide users with a seamless quiz-taking experience and serves as a demonstration of React's capabilities in creating engaging user interfaces.
+    A dynamic and interactive quiz application built using ReactJS. 
+    This project is designed to provide users with a seamless quiz-taking experience and serves as a 
+    demonstration of React's capabilities in creating engaging user interfaces.
 
 # Features
 <li>Multiple-choice questions with instant  feedback.</li>
